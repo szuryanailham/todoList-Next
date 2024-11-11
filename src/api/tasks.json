@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": "4",
+      "title": "Design homepage",
+      "description": "Design a new homepage layout for the website",
+      "status": "pending",
+      "dueDate": "2024-11-15",
+      "created_at": "2024-11-06T14:20:33.789Z"
+    },
+    {
+      "id": "uvbhZu",
+      "title": "belajar photografer",
+      "description": "belajar photografer",
+      "status": "in-progress",
+      "dueDate": "2024-11-09",
+      "created_at": "2024-11-08T20:37:14.780Z"
+    },
+    {
+      "id": "pincX3",
+      "title": "belajar design grafis",
+      "description": "belajar photografer",
+      "status": "in-progress",
+      "dueDate": "2024-11-09",
+      "created_at": "2024-11-08T20:37:14.780Z"
+    }
+  ]
+}
