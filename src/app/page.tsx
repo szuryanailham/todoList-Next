@@ -178,7 +178,7 @@ const HomePage = () => {
             </button>
           </div>
 
-          <div className="w-full p-2 border border-gray-200 rounded-lg shadow flex flex-col gap-2">
+          <div className="w-full p-2 md:px-5 border border-gray-200 rounded-lg shadow flex flex-col gap-2">
             {tasks.map((task, index) => {
               return (
                 <div key={index} className="card bg-base-100 w-full h-min-20 shadow-xl flex flex-row items-center justify-evenly">
