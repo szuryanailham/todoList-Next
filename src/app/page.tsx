@@ -58,7 +58,7 @@ const HomePage = () => {
           setLoadingDelete(false);
           setTaskInProgressID(null);
         }
-      }, 2000);
+      }, 1500);
     }
   };
 
