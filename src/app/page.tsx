@@ -164,7 +164,7 @@ const HomePage = () => {
       <div>
         <div className="mt-10 px-5">
           <div className="flex justify-between">
-            <h1 className="text-4xl md:w-full font-bold text-center text-gray-700 mb-5">Your Tasks</h1>
+            <h1 className="text-4xl md:w-full font-bold text-center text-gray-700 mb-10">Your Tasks</h1>
             <button
               className="btn btn-square btn-outline"
               onClick={() => {
@@ -178,7 +178,7 @@ const HomePage = () => {
             </button>
           </div>
 
-          <div className="w-full p-5 border border-gray-200 rounded-lg shadow flex flex-col gap-2">
+          <div className="w-full p-2 border border-gray-200 rounded-lg shadow flex flex-col gap-2">
             {tasks.map((task, index) => {
               return (
                 <div key={index} className="card bg-base-100 w-full h-min-20 shadow-xl flex flex-row items-center justify-evenly">
