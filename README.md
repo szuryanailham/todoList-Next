@@ -8,7 +8,6 @@ A full-stack to-do list application where users can add, view, update, and delet
 -etc ...
 
 purpose :
-
 the purpose of this application is to help people manage their time and tasks effectively , using tools based on soft skills theory for better organization and productivity
 
 Development Team :
